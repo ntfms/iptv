@@ -35,7 +35,7 @@ http://stream.tvtap.live:8081/live/us-discovery.stream/playlist.m3u8?wmsAuthSign
 http://stream.tvtap.live:8081/live/discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Documentaries", Discovery Science
 http://stream.tvtap.live:8081/live/us-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="News" tv-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/092013/deutsche_welle.png?itok=ft_wnEJ7", DW
+#EXTINF:-1 group-title="News", DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="Sports", ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
