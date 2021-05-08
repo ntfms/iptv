@@ -70,13 +70,13 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 #EXTINF:-1 group-title="Sports", MUTV
 http://stream.tvtap.live:8081/live/mutv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Documentaries", Nat Geo
-http://stream.tvtap.live:8081/live/us-natgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
+http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMTE6MjU6NDYgUE0maGFzaF92YWx1ZT13THUyVnNodVBCNjdUZnI1VnMzUjBBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Documentaries", Nat Geo UK
 http://stream.tvtap.live:8081/live/natgeo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Documentaries", Nat Geo Wild
-http://stream.tvtap.live:8081/live/us-natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
+http://stream.tvtap.live:8081/live/us-natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMTE6MzA6NDAgUE0maGFzaF92YWx1ZT1uV1YwWGE4clJpN2swNms1R001aUtBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Documentaries", Nat Geo Wild UK
-http://stream.tvtap.live:8081/live/natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
+http://stream.tvtap.live:8081/live/natgeowild.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjEgMTE6Mjk6NDcgUE0maGFzaF92YWx1ZT02RnZMTy9oNW8wSkVHWUJIRDFhRnVnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sports", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Entertainment", NBC
@@ -84,7 +84,7 @@ http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8?wmsAuthSign=c
 #EXTINF:-1 group-title="Sports", NBCSN
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="News", Newsmax TV
-https://youtu.be/39WrSskl3XE
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="Movies", Paramount Networks
 http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="News", Russia Today
