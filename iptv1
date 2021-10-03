@@ -87,7 +87,7 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8?wmsAuthSign=c2VydmVy
 http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sports", NBCSN
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="News", Newsmax TV
+#EXTINF:-1 group-title="News", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="Movies", Paramount Networks
 http://stream.tvtap.live:8081/live/us-paramount.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
