@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="USA" tvg-language="EN" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports",ESPN
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDI6Mjg6MDcgQU0maGFzaF92YWx1ZT1uRUVDaFVuZVNzUit1TmF6ak5WZ3NnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="Qatar" tvg-language="EN" tvg-logo ="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
