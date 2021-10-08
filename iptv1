@@ -28,8 +28,6 @@ http://stream.tvtap.live:8081/live/us-cinemax-5starmax.stream/playlist.m3u8?wmsA
 #EXTINF:-1 group-title="Movies", Cinemax Action
 http://stream.tvtap.live:8081/live/us-cinemaxaction.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="News", CNN
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 group-title="News", CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment", Court TV
 http://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
