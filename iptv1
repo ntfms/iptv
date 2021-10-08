@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Entertainment", ABC 7
 http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="News", Al Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="Movies", AMC
 http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="News", BBC News
