@@ -46,7 +46,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="Sports", ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDI6MDE6NDcgQU0maGFzaF92YWx1ZT1hQ3RLSzBtaXhhczMvbzBBWGdXNkVRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sports", ESPN 2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDI6Mjg6MDcgQU0maGFzaF92YWx1ZT1uRUVDaFVuZVNzUit1TmF6ak5WZ3NnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Entertainment", Fox
 http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 group-title="Sports", Fox Sports 1
