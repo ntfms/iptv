@@ -1,6 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="EN" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports",ESPN
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIxIDI6Mjg6MDcgQU0maGFzaF92YWx1ZT1uRUVDaFVuZVNzUit1TmF6ak5WZ3NnPT0mdmFsaWRtaW51dGVzPTIw
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="QA" tvg-language="EN" tvg-logo ="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-language="EN" group-title="News" tvg-country="US",CNN
+http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/24.ts
+
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-language="EN" group-title="Documentary" tvg-country="US",History
+#EXTVLCOPT:network-caching=1000
+http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/87.ts
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-language="EN" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports" tvg-country="US",ESPN
+#EXTVLCOPT:network-caching=1000
+http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/73374.ts
+
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="Crime & Investigation" tvg-language="EN" group-title="Documentary" tvg-country="US",Crime & Investigation
+#EXTVLCOPT:network-caching=1000
+http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/14123.ts
+
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-language="EN" group-title="News" tvg-country="UK",BBC World News
+#EXTVLCOPT:network-caching=1000
+http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/81857.ts
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-language="EN" tvg-logo ="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="News" tvg-country="QA",Al Jazeera English
+#EXTVLCOPT:network-caching=1000
+http://cs22cs.cc:2052/H5e7ratek4Ve/mV6P4ZPd/44471
+
+#EXTINF:-1 tvg-id="ENews.us" tvg-name="E!" tvg-language="EN" group-title="Entertainment" tvg-country="US",E! News
+#EXTVLCOPT:network-caching=1000
+http://cs22cs.cc:2052/H5e7ratek4Ve/mV6P4ZPd/20922
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-language="EN" group-title="Entertainment" tvg-country="US",AMC
+#EXTVLCOPT:network-caching=1000
+http://cs22cs.cc:2052/H5e7ratek4Ve/mV6P4ZPd/20967
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-country="US" tvg-language="EN" group-title="Documentaries",Crime 360
+#EXTVLCOPT:network-caching=1000
+http://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
