@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-language="EN" group-title="News" tvg-country="US",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/CNN#/media/File:CNN.svg" group-title="News" tvg-country="US",CNN
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/24.ts
 
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-language="EN" group-title="Documentary" tvg-country="US",History
@@ -11,26 +11,46 @@ http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/87.ts
 #EXTVLCOPT:network-caching=1000
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/73374.ts
 
-#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="Crime & Investigation" tvg-language="EN" group-title="Documentary" tvg-country="US",Crime & Investigation
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="Crime & Investigation" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/Crime_%26_Investigation_(European_TV_channel)#/media/File:Crime_+_Investigation_Logo_10.2019.svg" group-title="Documentaries" tvg-country="US",Crime & Investigation
 #EXTVLCOPT:network-caching=1000
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/14123.ts
 
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-language="EN" group-title="News" tvg-country="UK",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/BBC_World_News#/media/File:BBC_World_News_2022_(Boxed).svg" group-title="News" tvg-country="UK",BBC World News
 #EXTVLCOPT:network-caching=1000
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/81857.ts
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-language="EN" tvg-logo ="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="News" tvg-country="QA",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Al_Jazeera_English_2022.svg" group-title="News" tvg-country="QA",Al Jazeera English
 #EXTVLCOPT:network-caching=1000
-http://cs22cs.cc:2052/H5e7ratek4Ve/mV6P4ZPd/44471
+https://www.youtube.com/watch?v=GEumHK0hfdo
 
-#EXTINF:-1 tvg-id="ENews.us" tvg-name="E!" tvg-language="EN" group-title="Entertainment" tvg-country="US",E! News
+#EXTINF:-1 tvg-id="Entertainment.us" tvg-name="E!" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/E!#/media/File:E!_Logo_2012.svg" group-title="Entertainment" tvg-country="US",E!
 #EXTVLCOPT:network-caching=1000
 http://cs22cs.cc:2052/H5e7ratek4Ve/mV6P4ZPd/20922
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-language="EN" group-title="Entertainment" tvg-country="US",AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/AMC_(TV_channel)#/media/File:AMC_logo_2019.svg" group-title="Entertainment" tvg-country="US",AMC
 #EXTVLCOPT:network-caching=1000
 http://cs22cs.cc:2052/H5e7ratek4Ve/mV6P4ZPd/20967
 
-#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-country="US" tvg-language="EN" group-title="Documentaries",Crime 360
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-country="US" tvg-language="EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Hm7vK3GV5lvAogKv3Fwk0qaD7s1FmABk7w8Vz131DA&s" group-title="Documentaries",Crime 360
 #EXTVLCOPT:network-caching=1000
 http://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Action_2021.svg" group-title="Sports",Sky Sports Action
+#EXTVLCOPT:network-caching=1000
+http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13906
+
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg" group-title="Sports",BT Sport 1
+#EXTVLCOPT:network-caching=1000
+http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13903
+
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg" group-title="Sports",BT Sport 2
+#EXTVLCOPT:network-caching=1000
+http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13902
+
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/BT_Sport_4_HD.svg" group-title="Sports",BT Sport 4
+#EXTVLCOPT:network-caching=1000
+http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13901
+
+#EXTINF:-1 tvg-id="H2.uk" tvg-name="History 2" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/History_2.svg" group-title="Documentaries",History 2
+#EXTVLCOPT:network-caching=1000
+http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13893
