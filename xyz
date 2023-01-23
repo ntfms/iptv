@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/CNN#/media/File:CNN.svg" group-title="News" tvg-country="US",CNN
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/24.ts
 
-#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-language="EN" group-title="Documentary" tvg-country="US",History
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-language="EN" group-title="Documentaries" tvg-country="US",History
 #EXTVLCOPT:network-caching=1000
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/87.ts
 
