@@ -21,7 +21,7 @@ http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/81857.ts
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Al_Jazeera_English_2022.svg" group-title="News" tvg-country="QA",Al Jazeera English
 #EXTVLCOPT:network-caching=1000
-https://www.youtube.com/watch?v=GEumHK0hfdo
+https://list.iptvcat.com/my_list/s/254718670679e95e5a7888fa5f86e044.m3u8
 
 #EXTINF:-1 tvg-id="Entertainment.us" tvg-name="E!" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/E!#/media/File:E!_Logo_2012.svg" group-title="Entertainment" tvg-country="US",E!
 #EXTVLCOPT:network-caching=1000
