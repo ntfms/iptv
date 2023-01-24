@@ -15,7 +15,7 @@ http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/73374.ts
 #EXTVLCOPT:network-caching=1000
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/14123.ts
 
-#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/BBC_World_News#/media/File:BBC_World_News_2022_(Boxed).svg" group-title="News" tvg-country="UK",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-language="EN" tvg-logo="https://en.wikipedia.org/wiki/BBC_World_News#/media/File:BBC_World_News_2022_(Boxed).svg" group-title="News" tvg-country="GB",BBC World News
 #EXTVLCOPT:network-caching=1000
 http://airwild2.xyz:2086/live/SHARK-BOSS/9GdkyM6NaV/81857.ts
 
@@ -27,7 +27,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296469
 #EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg" group-title="News" tvg-country="UK",Sky Sports News
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Sky_Sports_News_2020.svg" group-title="News" tvg-country="GB",Sky Sports News
 #EXTVLCOPT:network-caching=1000
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/260
 
@@ -43,31 +43,31 @@ http://cs22cs.cc:2052/H5e7ratek4Ve/mV6P4ZPd/20967
 #EXTVLCOPT:network-caching=1000
 http://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Action_2021.svg" group-title="Sports",Sky Sports Action
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="Sky Sports Action" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Action_2021.svg" group-title="Sports",Sky Sports Action
 #EXTVLCOPT:network-caching=1000
 http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13906
 
-#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg" group-title="Sports",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg" group-title="Sports",Sky Sports Football
 #EXTVLCOPT:network-caching=1000
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Even" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg" group-title="Sports",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Even" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg" group-title="Sports",Sky Sports Main Event
 #EXTVLCOPT:network-caching=1000
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283053
 
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg" group-title="Sports",BT Sport 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/BT_Sport_1_HD.svg" group-title="Sports",BT Sport 1
 #EXTVLCOPT:network-caching=1000
 http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13903
 
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg" group-title="Sports",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/BT_Sport_2_HD.svg" group-title="Sports",BT Sport 2
 #EXTVLCOPT:network-caching=1000
 http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13902
 
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg" group-title="Sports",BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg" group-title="Sports",BT Sport 3
 #EXTVLCOPT:network-caching=1000
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/271
 
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/BT_Sport_4_HD.svg" group-title="Sports",BT Sport 4
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/BT_Sport_4_HD.svg" group-title="Sports",BT Sport 4
 #EXTVLCOPT:network-caching=1000
 http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13901
 
@@ -75,10 +75,10 @@ http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13901
 #EXTVLCOPT:network-caching=1000
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/263
 
-#EXTINF:-1 tvg-id="H2.uk" tvg-name="History 2" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/History_2.svg" group-title="Documentaries",History 2
+#EXTINF:-1 tvg-id="H2.uk" tvg-name="History 2" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/History_2.svg" group-title="Documentaries",History 2
 #EXTVLCOPT:network-caching=1000
 http://sniperstv.vip:8080/Goiptv2022@EverSS/Q2qzuLPK9cSS/13893
 
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-country="UK" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png" group-title="Sports",MUTV
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-country="GB" tvg-language="EN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/MUTV_logo.png" group-title="Sports",MUTV
 #EXTVLCOPT:network-caching=1000
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1102
